@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+spacy
+gensim
+tqdm
+jupyter
+notebook
+ipython
+transformers
+torch
+tensorflow
