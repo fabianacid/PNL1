@@ -15,7 +15,7 @@ Este repositorio contiene notebooks y documentos relacionados con los 4 desafío
 Este desafío se enfoca en dos ejes principales: análisis de similaridad entre documentos y palabras, y entrenamiento de modelos de clasificación basados en Naïve Bayes.
 
 
-[Desafío 1:](https://github.com/fabianacid/PNL1/blob/main/Desafio_1_CID_Maria_Fabiana.ipynb)
+[Desafío 1](https://github.com/fabianacid/PNL1/blob/main/Desafio_1_CID_Maria_Fabiana.ipynb)
 
 
 
