@@ -43,7 +43,7 @@ Utilizo como dataset el libro Las Mil y una Noches extraido en pdf de https://ww
 
 LSTM Bot QA
 El objecto es utilizar datos disponibles del challenge ConvAI2 (Conversational Intelligence Challenge 2) de conversaciones en inglés. Se construirá un BOT para responder a preguntas del usuario (QA).
-LINK
+
 
 [Desafío 4](https://github.com/fabianacid/PNL1/blob/main/Desafio4_MFCID_bot_qa.ipynb)
 
