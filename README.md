@@ -32,10 +32,12 @@ Modelo de lenguaje con tokenización por caracteres.
 
 Diseñar, entrenar y evaluar un modelo de lenguaje basado en redes neuronales recurrentes.
 Generar nuevas secuencias a partir de secuencias de contexto con las estrategias de greedy search y beam search determístico y estocástico. En este último caso se observa el efecto de la temperatura en la generación de secuencias.
-Dos variantes: modelo SimpleRNN y LSTM
+Dos variantes: modelo SimpleRNN y LSTM.
 Utilizo como dataset el libro Las Mil y una Noches extraido en pdf de texto.info
 
+
 [Desafío 3](https://github.com/fabianacid/PNL1/blob/main/Desafio3_lenguaje_char.ipynb)
+[Desafío 3](https://github.com/fabianacid/PNL1/blob/main/OpcionLSTM__Desafio3_lenguaje_char.ipynb)
 
 ## Cuarto desafío.
 
