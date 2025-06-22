@@ -15,25 +15,27 @@ Este repositorio contiene notebooks y documentos relacionados con los 4 desafío
 Este desafío se enfoca en dos ejes principales: análisis de similaridad entre documentos y palabras, y entrenamiento de modelos de clasificación basados en Naïve Bayes.
 
 
- [Desafío 1: Introducción al procesamiento de texto](https://github.com/fabianacid/PNL1/blob/main/Desafio_1_CID_Maria_Fabiana.ipynb)
+ [Desafío 1](https://github.com/fabianacid/PNL1/blob/main/Desafio_1_CID_Maria_Fabiana.ipynb)
 
 
 ## Segundo desafío.
 
 Custom embedddings con Libreria Gensim
-Crear mis propios vectores con Gensim . Probar términos de interés y explicar similitudes en el espacio de embeddings. Utilizo como dataset el texto del libro "El Arte de la Guerra" obtenido de la página https://www.textos.info/
 
-[Desafío 2: Modelado de lenguaje](https://github.com/fabianacid/PNL1/blob/main/Desafio2MFCID.ipynb)
+Crear mis propios vectores con Gensim. Probar términos de interés y explicar similitudes en el espacio de embeddings. Utilizo como dataset el texto del libro "El Arte de la Guerra" obtenido de la página https://www.textos.info/
+
+[Desafío 2](https://github.com/fabianacid/PNL1/blob/main/Desafio2MFCID.ipynb)
 
 ## Tercer desafío.
 
 Modelo de lenguaje con tokenización por caracteres.
+
 Diseñar, entrenar y evaluar un modelo de lenguaje basado en redes neuronales recurrentes.
 Generar nuevas secuencias a partir de secuencias de contexto con las estrategias de greedy search y beam search determístico y estocástico. En este último caso se observa el efecto de la temperatura en la generación de secuencias.
 Dos variantes: modelo SimpleRNN y LSTM
 Utilizo como dataset el libro Las Mil y una Noches extraido en pdf de texto.info
 
-[Desafío 3: Generación de texto con redes neuronales](https://github.com/fabianacid/PNL1/blob/main/Desafio3_lenguaje_char.ipynb)
+[Desafío 3](https://github.com/fabianacid/PNL1/blob/main/Desafio3_lenguaje_char.ipynb)
 
 ## Cuarto desafío.
 
@@ -41,7 +43,7 @@ LSTM Bot QA
 El objecto es utilizar datos disponibles del challenge ConvAI2 (Conversational Intelligence Challenge 2) de conversaciones en inglés. Se construirá un BOT para responder a preguntas del usuario (QA).
 LINK
 
-[Desafío 4: Chatbot de preguntas y respuestas](https://github.com/fabianacid/PNL1/blob/main/Desafio4_MFCID_bot_qa.ipynb)
+[Desafío 4](https://github.com/fabianacid/PNL1/blob/main/Desafio4_MFCID_bot_qa.ipynb)
 
 ## Recursos adicionales
 
